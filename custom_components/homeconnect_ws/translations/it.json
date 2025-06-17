@@ -994,6 +994,12 @@
       },
       "button_start_program": {
         "name": "Avviare"
+       },
+      "button_pause_program": {
+        "name": "Pausa"
+      },
+      "button_resume_program": {
+        "name": "Riprendere"
       }
     },
     "number": {
